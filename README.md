@@ -1,4 +1,5 @@
-## Hi there 👋
+## Learning
+Is an eternal cycle of: fuck around :arrows_counterclockwise: find out
 
 <!--
 **hggmarks/hggmarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
